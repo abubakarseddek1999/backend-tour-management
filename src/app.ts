@@ -6,4 +6,5 @@ app.get("/", (req, res) => {
     res.send("start tour-management-backend server");
 });
 
+
 export default app;
