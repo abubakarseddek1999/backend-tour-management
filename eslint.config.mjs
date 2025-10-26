@@ -19,7 +19,7 @@ tseslint.configs.stylistic,
         // '@typescript-eslint/ban-ts-comment': 'off',
         // '@typescript-eslint/no-empty-function': 'off',
         // '@typescript-eslint/explicit-module-boundary-types': 'off',
-        'no-unused-vars': 'off',
+        // 'no-unused-vars': 'off',
     },
 }
 );
